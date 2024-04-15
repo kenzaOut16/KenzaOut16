@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenzaout16&label=Profile%20views&color=0e75b6&style=flat" alt="kenzaout16" /> </p>
 
-- I’m currently learning **Go & batch**
+- I’m currently learning **Go**
 
 - How to reach me **outayebkenza@gmail.com**
 
